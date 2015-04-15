@@ -3,6 +3,7 @@
 ''' <summary>
 ''' An empty page that can be used on its own or navigated to within a Frame.
 ''' </summary>
+''' "this is a test"
 Public NotInheritable Class MainPage
     Inherits Page
 
